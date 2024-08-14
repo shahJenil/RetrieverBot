@@ -1,0 +1,11 @@
+langchain
+pymongo
+bs4
+openai
+langchain_google_genai
+tiktoken
+gradio
+requests
+lxml
+argparse
+unstructered
